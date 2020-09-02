@@ -2,7 +2,7 @@
 ----------
 _A program that represents a Linux shell command that lists directory contents of files and directories._
 
-Developed as study assignment in the Ucode school._
+_Developed as study assignment in the Ucode school._
 
 
 ## Description:
