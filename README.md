@@ -1,4 +1,5 @@
 # uls
+----------
 A program that represents a Linux shell command that lists directory contents of files and directories.
 Developed as study assignment in the Ucode school.
 ----------
@@ -6,7 +7,8 @@ Developed as study assignment in the Ucode school.
 
 ## Description:
 ```
-The program copies behavior of the ls utility which is a part of the GNU core utilities package installed on all Linux distributions.
+The program copies behavior of the ls utility which is a part of the GNU core 
+utilities package installed on all Linux distributions.
 It is used to list information about files and directories within the file system. 
 ```
 
