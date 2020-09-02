@@ -1,5 +1,5 @@
-#uls
-
+# uls
+----------
 A program that represents a Linux shell command that lists directory contents of files and directories.
 Developed as study assignment in the Ucode school.
 
@@ -10,11 +10,9 @@ It is used to list information about files and directories within the file syste
 ```
 
 ## Usage:
-```
 >**1. git clone https://github.com/i-minakov/uls.git**
 >**2. make**
 >**3. ./uls**
-```
 
 ## Flags-table:
 | Flag  | Description |
