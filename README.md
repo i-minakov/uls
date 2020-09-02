@@ -28,6 +28,7 @@ It is used to list information about files and directories within the file syste
 |**S**| Sort files by size |
 |**1**| Force output to be one entry per line |
 |**a**| Include directory entries whose names begin with a **`.`** |
+|**e**| Used with -l to display the Access Control List (ACL) associated with the file |
 |**l**| List in long format |
 |**t**| Sort by time parameter |
 |**i**| Print the file's file serial number |
@@ -35,6 +36,7 @@ It is used to list information about files and directories within the file syste
 |**s**| Display the number of file system blocks actually used by each file |
 |**u**| Use time of last access |
 |**у**| Display the number of file system blocks actually used by each file |
+|**@**| Display extended attribute keys and sizes |
 
 ## Developers:
 [Olha Lytvynenko](https://github.com/hlgltvnnk)
