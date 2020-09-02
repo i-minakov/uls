@@ -1,6 +1,6 @@
 # uls
 ----------
-_A program that represents a Linux shell command that lists directory contents of files and directories.
+_A program that represents a Linux shell command that lists directory contents of files and directories._
 
 Developed as study assignment in the Ucode school._
 
