@@ -17,7 +17,6 @@ It is used to list information about files and directories within the file syste
 ```
 
 ## Flags-table:
-```
 | Flag  | Description |
 |:-:|:-:|
 |**C**| Force multi-column output |
@@ -32,7 +31,6 @@ It is used to list information about files and directories within the file syste
 |**s**| Display the number of file system blocks actually used by each file |
 |**u**| Use time of last access |
 |**у**| Display the number of file system blocks actually used by each file |
-```
 
 ## Developers:
 [Olha Lytvynenko](https://github.com/hlgltvnnk)
